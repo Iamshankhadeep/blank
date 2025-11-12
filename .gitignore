@@ -1,0 +1,13 @@
+# Obsidian workspace files (local layout)
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+
+# Obsidian trash
+.trash/
+
+# Node modules (if using plugins)
+node_modules/
