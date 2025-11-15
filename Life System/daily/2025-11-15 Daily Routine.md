@@ -35,9 +35,9 @@ completion: 0%
 
 ## 🎯 Today's 3 Main Goals
 
-1. ________________________________
-2. ________________________________
-3. ________________________________
+1. Unblocking nacho with the stuff that we will use media-bunny with lambda fallback
+2. complete the media validator audio
+3. 
 
 ---
 
